@@ -53,11 +53,6 @@ ul li a{
 ul li a:hover{
     color: orange;
 }
-.search{
-    width: 330px;
-    float: left;
-    margin-left: 270px;
-}
 
 .content{
     width: 1200px;
@@ -186,4 +181,68 @@ a .btn{
 }
 .icons a:hover{
     color: orange;
+}
+
+
+.statement {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: auto;
+    color: white;
+}
+
+.statement p{
+    font-family: sans-serif;
+    font-weight: 1000;
+    padding: auto;
+}
+
+.far{
+    color: black;
+    padding: 2px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+.icons p{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    padding-right: 250px;
+}
+
+.icons span{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    color: black;
+    transition: 0.3s ease;
+    padding: auto;
+}
+
+.footer-body{
+    background-color: green;
+    background-size: auto;
+}
+
+.icons span:hover{
+    color: black;
+    
+}
+
+.TP p{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.inc p{
+    font-family: sans-serif;
+    color: white;
+    
 }
